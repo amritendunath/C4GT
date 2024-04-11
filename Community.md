@@ -909,3 +909,26 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+    <td>Amritendu Nath</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>www.github.com/amritendunath</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/amritendunath</td>
+  </tr>
+  <tr>
+    <td>Twitter</td>
+    <td>www.twitter.com/amritendunath</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>JIS College of Engineering</td>
+  </tr>
+</table>
